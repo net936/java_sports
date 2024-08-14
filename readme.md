@@ -11,9 +11,7 @@
 演示地址：[https://sports.gitapp.cn](https://sports.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_sports
 
 
 ## 主要功能
